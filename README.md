@@ -20,3 +20,8 @@ Functions
 Basic Problem Solving Programs
 
 Logical & Practice Questions
+
+
+
+-Author
+Omkar Kulkarni
